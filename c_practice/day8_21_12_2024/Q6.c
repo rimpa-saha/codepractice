@@ -26,6 +26,8 @@ int main(){
         case 'F':
         printf("description:fail\n");
         break;
+        default:
+        printf("invalid");
  }
           return 0;
 }
